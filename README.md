@@ -1,1 +1,3 @@
-<embed type="text/html" src="bnmp-inc.github.io/index.html" width="500" height="200">
+<img src="bnmp-inc.github.io/img/BNMP.svg" width="100px">
+
+This is where Benny Nguyen (also known as pdteggman or pdt1806) publishes his projects not as himself but the organization.
